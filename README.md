@@ -1,5 +1,4 @@
 # Number-guessing-game
-#day 1-100 (day 4 project)  number guessing game 
 #day 4 quick project
 import random
 print("Welcome to the Number Guessing Game!")
